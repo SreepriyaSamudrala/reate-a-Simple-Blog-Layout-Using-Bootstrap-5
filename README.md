@@ -1,2 +1,5 @@
-# reate-a-Simple-Blog-Layout-Using-Bootstrap-5
-reate a Simple Blog Layout Using Bootstrap 5
+# Create-a-Simple-Blog-Layout-Using-Bootstrap-5
+Create a Simple Blog Layout Using Bootstrap 5
+Creating a simple, responsive blog layout using Bootstrap 5 via CDN enables rapid UI development with minimal overhead. By integrating Bootstrap’s CSS and JavaScript links in your index.html, you establish access to a comprehensive design system. A navbar at the top provides easy navigation and branding, followed by a grid-based container showcasing multiple blog post cards—each featuring an image, title, snippet, and “Read More” button. Leveraging Bootstrap’s grid ensures these cards adapt fluidly across devices. At the bottom, a footer enriched with social icons and utility‑class styling ties everything together aesthetically while boosting usability. The entire layout remains responsive, visually consistent, and adaptable, demonstrating how Bootstrap accelerates professional looking web pages with just HTML markup and utility classes
+
+![img alt](https://github.com/SreepriyaSamudrala/reate-a-Simple-Blog-Layout-Using-Bootstrap-5/blob/main/output.png?raw=true)
